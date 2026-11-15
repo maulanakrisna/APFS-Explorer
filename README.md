@@ -57,4 +57,4 @@ Issues and pull requests are welcome. Useful first contributions:
 
 ## License
 
-Choose and add a license file before publishing (for Rust projects, MIT OR Apache-2.0 is common), and set the `license` field in `Cargo.toml`.
+MIT
