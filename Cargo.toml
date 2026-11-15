@@ -3,6 +3,7 @@ name = "apfs-explorer"
 version = "0.1.0"
 edition = "2021"
 description = "Penjelajah APFS (read-only) dengan UI Win32 native"
+license = "MIT & Apache 2.0"
 
 [dependencies]
 windows-sys = { version = "0.59", features = [
